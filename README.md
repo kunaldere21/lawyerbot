@@ -42,7 +42,7 @@ The Lawyer Chatbot aims to:
 1.  Run the chatbot application:
 
     ```bash
-    python .py #or however you called your main python file.
+    python frontend.py #or however you called your main python file.
     ```
 
 2.  Interact with the chatbot through the command line or web interface.
